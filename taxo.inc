@@ -1,5 +1,7 @@
-<?php
 
+
+<?php
+  // i have done few changes 
  function taxo_page($form, &$form_state){
  	// $items['taxonomy']=array(
   //       '#title' => 'Enter the taxonomy term ',
