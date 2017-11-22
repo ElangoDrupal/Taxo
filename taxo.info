@@ -1,0 +1,7 @@
+name =  Taxnomy SHort
+description = Corganize by taxonomy term
+package = Custom Modules
+; Information added by Drupal.org packaging script on 2016-12-31
+version = "7.x-2.3"
+core = "7.x"
+
