@@ -2,9 +2,9 @@
 
 
 function taxo_menu() {
-    $items['admin/myvaco'] = array(
+    $items['admin/Li'] = array(
     'title' => 'List of Taxonomy Terms',
-    'description' => 'Display THe content type based on the Taxonomy.',
+    'description' => 'Display  content type based on the Taxonomy.',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('taxo_page'),
     'access arguments' => array('administer users'),
